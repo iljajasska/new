@@ -10,7 +10,7 @@ namespace jasska2
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new lund();
         }
 
         protected override void OnStart()
